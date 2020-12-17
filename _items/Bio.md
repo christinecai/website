@@ -12,6 +12,6 @@ Before the start of my Ph.D. program, I worked as a full-time research assistant
 
 My résumé can be viewed/downloaded here.
 
-I can be reached at christine.cai@princeton.edu. Otherwise, if you happen to visit Princeton, I can be found in office 264 located in the Industrial Relations Section (on the second floor of the Department of Economics building). These days though, I am mostly wandering around Zoomland...!
+I can be reached at <christine.cai@princeton.edu>. Otherwise, if you happen to visit Princeton, I can be found in office 264 located in the Industrial Relations Section (on the second floor of the Department of Economics building). These days though, I am mostly wandering around Zoomland...!
 
 Finally, if you'd like to, you can follow me on Twitter 😊.
