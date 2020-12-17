@@ -14,8 +14,8 @@ description: Homepage
 
 
 <u>Research fields:</u>
-* Primary: applied microeconomics, labor, urban.
-* Secondary: public, health, education.
+* <i>Primary:</i> applied microeconomics, labor, urban.
+* <i>Secondary:</i> public, health, education.
 			
 <u>Main topics of interest:</u> segregation, migrations, educational inequalities, social mobility.
 	
