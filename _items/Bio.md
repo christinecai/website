@@ -8,7 +8,7 @@ I am Christine Cai(-square distributed), a third-year <font color="orange">Ph.D.
 	
 My research interests lie in <font color="orange">applied microeconomics</font> and span <font color="orange">labor, education, urban, public, and health economics</font>. I am particularly interested in issues related to segregation, migrations, educational inequalities, and social mobility.
 	
-<font color="orange">Before the start of my Ph.D. program </font>I worked as a full-time <font color="orange">research assistant</font> for <a href="http://faculty.chicagobooth.edu/rebecca.dizon-ross/">Professor Rebecca Dizon-Ross</a> at the University of <font color="orange">Chicago Booth</font> School of Business.
+<font color="orange">Before the start of my Ph.D. program</font>, I worked as a full-time <font color="orange">research assistant</font> for <a href="http://faculty.chicagobooth.edu/rebecca.dizon-ross/">Professor Rebecca Dizon-Ross</a> at the University of <font color="orange">Chicago Booth</font> School of Business.
 	
 My <font color="orange">CV</font> can be viewed/downloaded <a href="/assets/pdf/Christine_Cai_CV.pdf">here</a>.
 	
