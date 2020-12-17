@@ -5,11 +5,7 @@ description: Homepage
 ---
 ## Ph.D. Candidate in Economics at Princeton University
 
-<br></br>
-
-<strong>Hello! Welcome to my website!</strong>
-
-<br></br>
+<br><strong>Hello! Welcome to my website!</strong></br>
 
 <font color="LightSalmon">Primary research fields:</font> applied microeconomics, labor, urban.
 <font color="LightSalmon">Secondary research fields:</font> public, health, education.
