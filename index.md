@@ -3,7 +3,8 @@ layout: default
 title: Christine Cai
 description: Homepage
 ---
-# Ph.D. Candidate in Economics at Princeton University
+## Ph.D. Candidate in Economics at Princeton University
+
 Hello! Welcome to my website!
 
 # [Makrdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
