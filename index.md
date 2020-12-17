@@ -13,11 +13,11 @@ description: Homepage
 <hr />
 
 
-<font color="LightSalmon">Primary research fields:</font> applied microeconomics, labor, urban.
-<font color="LightSalmon">Secondary research fields:</font> public, health, education.
+<u>Primary research fields:</u> applied microeconomics, labor, urban.
+<u>Secondary research fields:</u> public, health, education.
 			
-<font color="LightSalmon">Main topics of interest:</font> segregation, migrations, educational inequalities, social mobility.
+<u>Main topics of interest:</u> segregation, migrations, educational inequalities, social mobility.
 	
-<font color="LightSalmon">CV:</font> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
+<u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
 
-<font color="LightSalmon">Contact:</font> <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>
+<u>Contact:</u> <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>
