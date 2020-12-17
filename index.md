@@ -4,7 +4,7 @@ title: Christine Cai
 description: Homepage
 ---
 
-### Ph.D. Candidate in Economics at Princeton University
+#### Ph.D. Candidate in Economics at Princeton University
 
 <hr />
 
