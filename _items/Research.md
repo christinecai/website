@@ -13,10 +13,10 @@ description: Research
 <button type="button" class="btn btn-xs btn-default"><a href="/assets/pdf/BCT_white_flight_draft.pdf">Preliminary draft</a></button>
 
 * School Racial Diversity and Individuals' Racial Attitudes 
-<span class="label label-default">Applying for data</span>
+<button type="button" class="btn btn-xs btn-default">Applying for data</button>
 
 * The Effects of Universal Pre-K Expansion on Parental Labor Supply and Financial Well-Being 
-<span class="label label-default">Applying for data</span>
+<button type="button" class="btn btn-xs btn-default">Applying for data</button>
 
 ### Master's thesis (dormant)
 
