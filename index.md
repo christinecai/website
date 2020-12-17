@@ -14,10 +14,10 @@ description: Homepage
 
 
 <u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, labor, urban.
-* <u>Secondary:</u> public, health, education.
+* <u>Primary:</u> applied microeconomics, labor, urban
+* <u>Secondary:</u> public, health, education
 			
-<u>Main topics of interest:</u> segregation, migrations, educational inequalities, social mobility.
+<u>Main topics of interest:</u> segregation, migrations, social mobility, educational inequalities
 	
 <u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
 
