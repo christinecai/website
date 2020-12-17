@@ -16,7 +16,7 @@
 title: jekyll-theme-potato-hacker
 author: "Christine Cai"
 email: "christine.cai@princeton.edu"
-description: Ph.D. Candidate in Economics at Princeton University
+description: personal website
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "Ph.D. Candidate in Economics at Princeton University"
+avatar_description: "Christine Cai"
 highlighter_theme: thankful_eyes  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
