@@ -5,7 +5,10 @@ description: Homepage
 ---
 ## Ph.D. Candidate in Economics at Princeton University
 
-Hello! Welcome to my website!
+<div class="alert alert-success" role="alert">
+  <strong>Hello! Welcome to my website!</strong>
+</div>
+
 
 # [Makrdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
