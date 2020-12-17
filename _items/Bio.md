@@ -12,6 +12,4 @@ Before the start of my Ph.D. program, I worked as a full-time <font color="India
 	
 My <font color="IndianRed">CV</font> can be viewed/downloaded <a href="/assets/pdf/Christine_Cai_CV.pdf">here</a>.
 	
-I can be reached at <font color="IndianRed">christine.cai@princeton.edu</font>. Otherwise, if you happen to visit Princeton, I can be found in office 264 located in the Industrial Relations Section (on the second floor of the Department of Economics building). These days though, I am mostly wandering around Zoomland...!
-	
-Finally, if you'd like to, you can <a href="https://twitter.com/Christine_Cai27">follow me on Twitter</a> 😊.
+Feel free to reach out to me at <font color="IndianRed">christine.cai@princeton.edu</font>, or if you happen to visit Princeton, you can drop by office 264 in the Industrial Relations Section (especially if you want to hit a few ping pong balls!). These days though, I am mostly wandering around Zoomland...!
