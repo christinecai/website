@@ -4,7 +4,7 @@ title: Research
 description: Research
 ---
 
-WORK IN PROGRESS
+<font color="darkred">WORK IN PROGRESS</font>
 
 Tightening Immigration Policy: Unintended Consequences on Hispanic U.S. Citizens' Health Behavior and Status 
 [preliminary draft]
@@ -18,10 +18,10 @@ School Racial Diversity and Individuals' Racial Attitudes
 The Effects of Universal Pre-K Expansion on Parental Labor Supply and Financial Well-Being 
 [applying for data]
 
-MASTER'S THESIS (DORMANT)
+<font color="darkred">MASTER'S THESIS (DORMANT)</font>
 
 Colonial Administrators and Public Educational Investments in French West Africa [paper] [slides]
 
-POLICY PUBLICATION
+<font color="darkred">POLICY PUBLICATION</font>
 
 Cai, Christine (2014). "Denmark – Country Note," OECD Education at a Glance 2014: Country Notes [URL]
