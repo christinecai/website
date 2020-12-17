@@ -55,7 +55,7 @@ collections:
   dropdown:
     output: false
   items:
-    output: true
+    output: false
 # ------------------------------------------------------------------------------
 
 
