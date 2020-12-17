@@ -14,45 +14,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
-description: A simple Jekyll theme based on potatoes and hackers
-baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: "Christine Cai"
+email: "christine.cai@princeton.edu"
+description: Ph.D. Candidate in Economics at Princeton University
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "<github_username>"
-facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+github_username: "christinecai"
+orcid: "0000-0002-6978-7644"
+twitter_username: "Christine_Cai27"
+linkedin_id: "christinecai"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
-# remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
+remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
 theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
 # Extra settings
-blog: on                 # Show blog tag and post list (on | off)
+blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: "Ph.D. Candidate in Economics at Princeton University"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - dropdown2
-  - About
-  - dropdown1
+  - Bio
+  - Research
+  - CV
+  - Public Goods
 
 # Collections
 collections:
   dropdown:
-    output: true
+    output: false
   items:
     output: true
 # ------------------------------------------------------------------------------
