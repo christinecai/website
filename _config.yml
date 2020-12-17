@@ -41,19 +41,19 @@ blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
 avatar_description: "Christine Cai"
-highlighter_theme: colorful  # Theme of the syntax_highlighter [base16 |
+highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
   - Bio
   - Research
   - CV
-  - Public Goods
+  - PublicGoods
 
 # Collections
 collections:
   dropdown:
-    output: true
+    output: false
   items:
     output: true
 # ------------------------------------------------------------------------------
