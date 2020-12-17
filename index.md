@@ -3,11 +3,15 @@ layout: default
 title: Christine Cai
 description: Homepage
 ---
+
 ## Ph.D. Candidate in Economics at Princeton University
 
 <hr />
+
 <strong>Hello! Welcome to my website!</strong>
+
 <hr />
+
 
 <font color="LightSalmon">Primary research fields:</font> applied microeconomics, labor, urban.
 <font color="LightSalmon">Secondary research fields:</font> public, health, education.
